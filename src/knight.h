@@ -25,7 +25,7 @@
 #include <unordered_map>
 
 using namespace std;
-
+// Very interesting task!
 struct Pos {
     int row, col;
     
